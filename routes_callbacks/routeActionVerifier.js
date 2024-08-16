@@ -1,0 +1,3 @@
+function routeVerifier(req, [fields]) {
+
+} 

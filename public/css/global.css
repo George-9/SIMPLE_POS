@@ -1,0 +1,24 @@
+button {
+    border: none;
+    width: 150px;
+    padding: 10px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    margin: 5px;
+    cursor: pointer;
+    border: 1px solid grey;
+    border-radius: 3px;
+    min-width: 300px;
+    background-color: cornflowerblue;
+    color: white;
+}
+
+button:hover {
+    opacity: .5;
+}
+
+input {
+    min-width: 300px;
+    padding: 10px;
+    border: 1px solid#8080807d;
+}
